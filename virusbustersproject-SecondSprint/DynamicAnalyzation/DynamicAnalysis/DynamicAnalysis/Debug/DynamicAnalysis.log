@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\Source.cpp(244,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\Source.cpp(250,32): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\Source.cpp(250,32): warning C4129: 'M': unrecognized character escape sequence
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\Source.cpp(250,32): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\Source.cpp(250,32): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\Source.cpp(250,32): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\Source.cpp(250,132): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\Source.cpp(250,132): warning C4129: 'M': unrecognized character escape sequence
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\Source.cpp(250,132): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\Source.cpp(250,132): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\Source.cpp(250,132): warning C4129: 'R': unrecognized character escape sequence
+  DynamicAnalysis.vcxproj -> C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\Debug\DynamicAnalysis.dll

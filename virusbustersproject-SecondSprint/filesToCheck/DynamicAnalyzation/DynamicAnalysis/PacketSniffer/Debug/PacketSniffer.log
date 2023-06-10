@@ -1,0 +1,16 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol _PacketGetVersion referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _PacketSetReadTimeout referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _PacketGetStats referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _PacketSetBuff referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _PacketOpenAdapter referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _PacketAllocatePacket referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _PacketInitPacket referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _PacketFreePacket referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _PacketReceivePacket referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _PacketSetHwFilter referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _PacketGetAdapterNames referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _PacketCloseAdapter referenced in function _main
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\npcap-sdk-1.13\Lib\x64\Packet.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\npcap-sdk-1.13\Lib\x64\wpcap.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\Debug\PacketSniffer.exe : fatal error LNK1120: 12 unresolved externals

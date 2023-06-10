@@ -1,0 +1,11 @@
+﻿  StackReader.cpp
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\StackReader.cpp(79,7): warning C4101: 'bStackValue': unreferenced local variable
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\StackReader.cpp(124,43): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\StackReader.cpp(124,43): warning C4302: 'type cast': truncation from 'PVOID' to 'DWORD'
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\StackReader.cpp(124,72): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\StackReader.cpp(124,72): warning C4302: 'type cast': truncation from 'PVOID' to 'DWORD'
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\StackReader.cpp(155,6): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'DWORD'
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\StackReader.cpp(155,6): warning C4302: 'type cast': truncation from 'HANDLE' to 'DWORD'
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\StackReader.cpp(195,8): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'DWORD'
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\StackReader.cpp(195,8): warning C4302: 'type cast': truncation from 'HANDLE' to 'DWORD'
+  MainDynamicAnalysis.vcxproj -> C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\x64\Debug\MainDynamicAnalysis.exe

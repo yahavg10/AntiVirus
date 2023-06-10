@@ -1,0 +1,3 @@
+﻿  StackReader.cpp
+C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\StackReader.cpp(82,7): warning C4101: 'bStackValue': unreferenced local variable
+  MainDynamicAnalysis.vcxproj -> C:\Users\maorb\Downloads\virusbustersproject\virusbustersproject\DynamicAnalyzation\DynamicAnalysis\Debug\MainDynamicAnalysis.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\maorb\source\repos\CoolAttackVector\APCInjection\Source.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\maorb\source\repos\CoolAttackVector\APCInjection\Source.cpp(47,34): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+C:\Users\maorb\source\repos\CoolAttackVector\APCInjection\Source.cpp(47,34): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+  APCInjection.vcxproj -> C:\Users\maorb\source\repos\CoolAttackVector\x64\Debug\APCInjection.exe

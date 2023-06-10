@@ -1,0 +1,6 @@
+﻿  FileManager.cpp
+  StackReader.cpp
+\\VBOXSVR\filesToCheck\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\StackReader.cpp(81,7): warning C4101: 'bStackValue': unreferenced local variable
+\\VBOXSVR\filesToCheck\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\StackReader.cpp(355,25): warning C4129: 'D': unrecognized character escape sequence
+\\VBOXSVR\filesToCheck\DynamicAnalyzation\DynamicAnalysis\DynamicAnalysis\StackReader.cpp(356,27): warning C4129: 'D': unrecognized character escape sequence
+LINK : fatal error LNK1181: cannot open input file 'detours.lib'

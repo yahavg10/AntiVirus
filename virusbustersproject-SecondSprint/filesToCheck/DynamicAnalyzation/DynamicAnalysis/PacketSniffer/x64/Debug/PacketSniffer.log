@@ -1,0 +1,3 @@
+﻿  Source.cpp
+\\VBOXSVR\filesToCheck\DynamicAnalyzation\DynamicAnalysis\PacketSniffer\Source.cpp(55,24): warning C4101: 'Open': unreferenced local variable
+  PacketSniffer.vcxproj -> \\VBOXSVR\filesToCheck\DynamicAnalyzation\DynamicAnalysis\x64\Debug\PacketSniffer.exe
